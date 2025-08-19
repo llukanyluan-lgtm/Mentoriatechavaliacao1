@@ -1,8 +1,8 @@
 Questão 1
-Variáveis a serem criadas:
-int, doubl, booleano e string
+Variáveis que devem ser criadas:
+int, double, booleano e string
 
-Tipos de dados:
+Dados:
 nomeCompleto - String
 Idade - int
 altura (em metros) - double
@@ -27,5 +27,3 @@ nomeEvento - String
 Número de participantes esperados - int
 Preço do ingresso - double
 Se o evento será presencial - booleano
-
-Fim da atividade.
