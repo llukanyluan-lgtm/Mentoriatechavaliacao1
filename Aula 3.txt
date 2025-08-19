@@ -1,0 +1,31 @@
+Questão 1
+Variáveis a serem criadas:
+int, doubl, booleano e string
+
+Tipos de dados:
+nomeCompleto - String
+Idade - int
+altura (em metros) - double
+Se está matriculado ou não - booleano
+
+Questão 2
+Variáveis:
+int, double, booleano e string
+
+Dados:
+nomeProduto - String
+Quantidade em estoque - int
+Preço unitário - double
+Disponível para venda - booleano
+
+Questão 3 
+Variáveis:
+int, double, booleano e string
+
+Dados:
+nomeEvento - String
+Número de participantes esperados - int
+Preço do ingresso - double
+Se o evento será presencial - booleano
+
+Fim da atividade.

@@ -1,0 +1,45 @@
+Atividade 01 Calcular a área e perímetro de um retangulo.
+import java.util.Scanner;
+public class Retangulo {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        double base, altura, area, perimetro;
+
+        System.out.println("Digite a base do retangulo: ");
+        double base = scan.nextDouble();
+
+        System.out.println("Digite a altura do retangulo");
+        double altura = scan.nextDouble();
+
+        area = base * altura;
+        perimetro = 2* (base + altura);
+
+        System.out.println("Área: " + area);
+        System out.println("Perimetro: " + perimetro);
+
+        scan.close();
+    }
+}
+---------------------------------------------------------------
+Atividade 02 Comparação de idades.
+import java.util.Scanner;
+public class CompararIdades {
+
+     public static void main(String[] args) {
+         Scanner scan = new Scanner(System.in);
+
+         System.out.println("Digite a idade da primeira pessoa: ");
+         int idadePessoa1 = scan.nextInt();
+
+         System.out.println("Digite a idade da segunda pessoa: ");
+         int idadePessoa2 = scan.nextInt();
+
+         boolean primeiraMaisVelha = idadePessoa1 > idadePessoa2;
+
+         System.out.println("A primeira é mais velha: " + primeiraMaisVelha);
+
+         scan.close();
+     }
+}
